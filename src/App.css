@@ -53,8 +53,8 @@ button{
 .task > div{
     width: 100%;
 }
-.task > span{
-    color: rgba(0, 0, 0, 0.683);
+.task  span{
+    color: rgba(56, 3, 70, 0.683);
 }
 .task button{
     border-radius: 100%;
